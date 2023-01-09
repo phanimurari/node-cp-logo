@@ -1,0 +1,7 @@
+POST https://mytestnodeapp.up.railway.app/login
+Content-Type: application/json
+
+{
+  "username": "christopher_phillips",
+  "password": "christy@123"
+}
